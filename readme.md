@@ -1,10 +1,5 @@
-# programacion 
+## programacion
 
-- [setiembre-02-2021](septiembre 02 2021)
+## septiembre2021
 
-
-
-
-
-
-sss
+mi tarea 

@@ -1,8 +1,7 @@
 # programacion 
 
-## septiembre2021
+- [setiembre-02-2021](septiembre 02 2021)
 
-° C:\Users\GEELEN MAURY\desktop\programacion-marycastillo14\septiembre02
 
 
 
